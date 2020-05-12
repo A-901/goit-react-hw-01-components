@@ -1,0 +1,11 @@
+.tableContainer {
+  width: 940px;
+}
+
+
+
+.tbodyTr:nth-child(odd) {
+  background-color: #ecf2f3;
+}
+
+
